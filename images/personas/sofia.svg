@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Sofia">
+  <defs><clipPath id="c"><circle cx="64" cy="64" r="64"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="128" height="128" fill="#fde2d4"/>
+    <path d="M30 46c0-20 15-32 34-32s34 12 34 32v44c-8 6-60 6-68 0z" fill="#5a3825"/>
+    <path d="M18 132c0-30 20-44 46-44s46 14 46 44z" fill="#e0607e"/>
+    <path d="M50 90c4 7 24 7 28 0" fill="none" stroke="#c94b69" stroke-width="4" stroke-linecap="round"/>
+    <rect x="56" y="74" width="16" height="16" rx="4" fill="#d9a477"/>
+    <circle cx="64" cy="56" r="23" fill="#e8b48a"/>
+    <path d="M41 54c1-16 11-24 23-24s22 8 23 24c-10-2-18-8-23-15-5 7-13 13-23 15z" fill="#5a3825"/>
+    <circle cx="55" cy="59" r="2.6" fill="#0b1d30"/>
+    <circle cx="73" cy="59" r="2.6" fill="#0b1d30"/>
+    <path d="M57 68c4 3 10 3 14 0" fill="none" stroke="#0b1d30" stroke-width="2.6" stroke-linecap="round"/>
+    <circle cx="41" cy="62" r="3" fill="#f5b301"/>
+    <circle cx="87" cy="62" r="3" fill="#f5b301"/>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+import{j as r}from"./query-CHgwkPLA.js";const i=({gauche:s,children:l,largeurGauche:e="lg:grid-cols-[minmax(0,380px)_1fr]"})=>r.jsxs("div",{className:`colonne grid gap-10 py-10 ${e} lg:gap-0`,children:[r.jsx("div",{className:"min-w-0 lg:border-r lg:border-border lg:pr-10",children:s}),r.jsx("div",{className:"min-w-0 lg:pl-10",children:l})]});export{i as D};
